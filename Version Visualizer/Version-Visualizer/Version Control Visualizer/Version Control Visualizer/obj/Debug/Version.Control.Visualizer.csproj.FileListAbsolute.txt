@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\bin\Debug\Version Control Visualizer.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\obj\Debug\Version Control Visualizer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\obj\Debug\Version_Control_Visualizer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\obj\Debug\Version Control Visualizer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\bin\Debug\Version Control Visualizer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\bin\Debug\Version Control Visualizer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\obj\Debug\Version Control Visualizer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\obj\Debug\Version Control Visualizer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Version Control Visualizer\Version Control Visualizer\obj\Debug\Version_Control_Visualizer.SignForm.resources

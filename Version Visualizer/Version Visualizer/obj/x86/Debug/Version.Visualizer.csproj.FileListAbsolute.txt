@@ -1,0 +1,7 @@
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\bin\Debug\Version Visualizer.exe
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\bin\Debug\Version Visualizer.pdb
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\obj\x86\Debug\Version_Visualizer.Properties.Resources.resources
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\obj\x86\Debug\Version Visualizer.csproj.GenerateResource.Cache
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\obj\x86\Debug\Version Visualizer.exe
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\obj\x86\Debug\Version Visualizer.pdb
+d:\users\190\documents\visual studio 2010\Projects\Version Visualizer\Version Visualizer\obj\x86\Debug\Version_Visualizer.VersionVis.resources
